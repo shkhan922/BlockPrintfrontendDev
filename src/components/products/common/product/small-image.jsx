@@ -13,7 +13,7 @@ class SmallImages extends Component {
         this.setState({
             nav2: this.slider2
         });
-    }
+    } 
 
     render() {
         const { item, settings } = this.props;

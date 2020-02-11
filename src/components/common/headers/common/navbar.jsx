@@ -100,7 +100,7 @@ class NavBar extends Component {
                 >
                   {translate("shop")}
                 </Link>
-              </li>
+              </li> 
               <li>
                 <Link
                   to={`${process.env.PUBLIC_URL}/left-sidebar/collection`}

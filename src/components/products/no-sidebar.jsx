@@ -31,7 +31,7 @@ class NoSideBar extends Component {
             nav1: this.slider1,
             nav2: this.slider2
         });
-
+ 
     }
 
     render(){
@@ -45,7 +45,7 @@ class NoSideBar extends Component {
             slidesToScroll:1,
             swipeToSlide:true,
             draggable:true,
-            focusOnSelect: true
+            focusOnSelect: true 
         };
         
 

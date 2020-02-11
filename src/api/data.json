@@ -1147,8 +1147,9 @@
       "color": "white",
       "images": "/assets/images/fashion/product/48.jpg"
     }]
-  },
-    {
+  }/*,
+  
+   {
       "id": 49,
       "name": "Cabbage",
       "price": 120.00,
