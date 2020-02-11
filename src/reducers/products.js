@@ -6,7 +6,7 @@ import {
 
 const initialState = {
     products: [],
-    symbol: 'rs',
+    symbol: '₹',
     product_details: []
 };
 
