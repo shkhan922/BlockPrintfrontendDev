@@ -8,7 +8,7 @@ import {Link} from 'react-router-dom';
 import TopCollection from './top-collection';
 import SpecialProducts from "../common/products";
 import BlogSection from "../common/blogsection";
-import Instagram from "../common/instagram";
+import Instagram from "../common/instagram"; 
 import LogoBlock from "../common/logo-block";
 import {
     svgFreeShipping, 
