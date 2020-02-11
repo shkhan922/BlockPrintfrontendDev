@@ -2,10 +2,15 @@
   {
     "id": 1,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -17,18 +22,19 @@
     "tags": ["blockprint"],
     "rating": 4,
     "variants": [
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/1.jpg"
-    },
-    {
-      "color": "gray", 
-      "images": "/assets/images/fashion/product/21.jpg"
-    },
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/36.jpg"
-    }]
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/1.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/21.jpg"
+      },
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/36.jpg"
+      }
+    ]
   },
   {
     "id": 2,
@@ -36,7 +42,12 @@
     "price": 1999,
     "salePrice": 999,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -48,14 +59,15 @@
     "tags": ["caprese", "puma"],
     "rating": 5,
     "variants": [
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/15.jpg"
-    },
-    {
-      "color": "orange",
-      "images": "/assets/images/fashion/product/7.jpg"
-    }]
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/15.jpg"
+      },
+      {
+        "color": "orange",
+        "images": "/assets/images/fashion/product/7.jpg"
+      }
+    ]
   },
   {
     "id": 3,
@@ -63,7 +75,12 @@
     "price": 1999,
     "salePrice": 999,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -75,18 +92,19 @@
     "tags": ["puma"],
     "rating": 4,
     "variants": [
-    {
-      "color": "blue",
-      "images": "/assets/images/fashion/product/32.jpg"
-    },
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/2.jpg"
-    },
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/25.jpg"
-    }]
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/32.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/2.jpg"
+      },
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/25.jpg"
+      }
+    ]
   },
   {
     "id": 4,
@@ -94,7 +112,12 @@
     "price": 1999,
     "salePrice": 999,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -106,18 +129,19 @@
     "tags": ["lifestyle"],
     "rating": 4,
     "variants": [
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/5.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/12.jpg"
-    },
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/31.jpg"
-    }]
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/5.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/12.jpg"
+      },
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/31.jpg"
+      }
+    ]
   },
   {
     "id": 5,
@@ -125,7 +149,12 @@
     "price": 1999,
     "salePrice": 999,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -137,26 +166,32 @@
     "tags": ["caprese", "lifestyle"],
     "rating": 5,
     "variants": [
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/13.jpg"
-    },
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/10.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/21.jpg"
-    }]
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/13.jpg"
+      },
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/10.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/21.jpg"
+      }
+    ]
   },
   {
     "id": 6,
-   "name": "Men Handblock Casual Shirt",
+    "name": "Men Handblock Casual Shirt",
     "price": 1999,
     "salePrice": 999,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -168,18 +203,19 @@
     "tags": ["caprese"],
     "rating": 5,
     "variants": [
-    {
-      "color": "blue",
-      "images": "/assets/images/fashion/product/30.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/24.jpg"
-    },
-    {
-      "color": "orange",
-      "images": "/assets/images/fashion/product/9.jpg"
-    }]
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/30.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/24.jpg"
+      },
+      {
+        "color": "orange",
+        "images": "/assets/images/fashion/product/9.jpg"
+      }
+    ]
   },
   {
     "id": 7,
@@ -187,7 +223,12 @@
     "price": 1999,
     "salePrice": 999,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -199,26 +240,32 @@
     "tags": ["nike", "lifestyle"],
     "rating": 4,
     "variants": [
-    {
-      "color": "red",
-      "images": "/assets/images/fashion/product/20.jpg"
-    },
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/4.jpg"
-    },
-    {
-      "color": "blue",
-      "images": "/assets/images/fashion/product/35.jpg"
-    }]
+      {
+        "color": "red",
+        "images": "/assets/images/fashion/product/20.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/4.jpg"
+      },
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/35.jpg"
+      }
+    ]
   },
   {
     "id": 8,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -230,14 +277,15 @@
     "tags": ["nike", "lifestyle"],
     "rating": 3,
     "variants": [
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/11.jpg"
-    },
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/1.jpg"
-    }]
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      },
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/1.jpg"
+      }
+    ]
   },
   {
     "id": 9,
@@ -245,7 +293,12 @@
     "price": 1999,
     "salePrice": 999,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -257,22 +310,28 @@
     "tags": ["nike", "lifestyle"],
     "rating": 4,
     "variants": [
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/14.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/4.jpg"
-    }]
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/14.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/4.jpg"
+      }
+    ]
   },
   {
     "id": 10,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 16,
@@ -284,26 +343,32 @@
     "tags": ["nike", "lifestyle"],
     "rating": 3,
     "variants": [
-    {
-      "color": "red",
-      "images": "/assets/images/fashion/product/23.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/22.jpg"
-    },
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/2.jpg"
-    }]
+      {
+        "color": "red",
+        "images": "/assets/images/fashion/product/23.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/22.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/2.jpg"
+      }
+    ]
   },
   {
     "id": 11,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/12.jpg", "/assets/images/fashion/product/14.jpg", "/assets/images/fashion/product/19.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/12.jpg",
+      "/assets/images/fashion/product/14.jpg",
+      "/assets/images/fashion/product/19.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket., ",
     "description": " We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -315,26 +380,32 @@
     "tags": ["nike", "lifestyle"],
     "rating": 5,
     "variants": [
-    {
-      "color": "orange",
-      "images": "/assets/images/fashion/product/9.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/12.jpg"
-    },
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/14.jpg"
-    }]
+      {
+        "color": "orange",
+        "images": "/assets/images/fashion/product/9.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/12.jpg"
+      },
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/14.jpg"
+      }
+    ]
   },
   {
     "id": 12,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/22.jpg", "/assets/images/fashion/product/24.jpg", "/assets/images/fashion/product/11.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/22.jpg",
+      "/assets/images/fashion/product/24.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -346,25 +417,31 @@
     "tags": ["nike", "lifestyle"],
     "rating": 3,
     "variants": [
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/2.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/22.jpg"
-    }]
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/2.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/22.jpg"
+      }
+    ]
   },
   {
     "id": 13,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/31.jpg", "/assets/images/fashion/product/18.jpg", "/assets/images/fashion/product/24.jpg", "/assets/images/fashion/product/28.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/31.jpg",
+      "/assets/images/fashion/product/18.jpg",
+      "/assets/images/fashion/product/24.jpg",
+      "/assets/images/fashion/product/28.jpg"
+    ],
     "shortDetails": "  ",
     "description": "Men Handblock Casual Shirt",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": true,
     "category": "men",
@@ -373,25 +450,31 @@
     "tags": ["nike", "lifestyle"],
     "rating": 4,
     "variants": [
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/31.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/24.jpg"
-    }]
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/31.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/24.jpg"
+      }
+    ]
   },
   {
     "id": 14,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/13.jpg", "/assets/images/fashion/product/22.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/1.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/13.jpg",
+      "/assets/images/fashion/product/22.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/1.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": true,
     "sale": false,
     "category": "men",
@@ -400,29 +483,35 @@
     "tags": ["nike", "lifestyle"],
     "rating": 4,
     "variants": [
-    {
-      "color": "orange",
-      "images": "/assets/images/fashion/product/13.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/22.jpg"
-    },
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/10.jpg"
-    }]
+      {
+        "color": "orange",
+        "images": "/assets/images/fashion/product/13.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/22.jpg"
+      },
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/10.jpg"
+      }
+    ]
   },
   {
     "id": 15,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/17.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/15.jpg", "/assets/images/fashion/product/12.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/17.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/15.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": false,
     "category": "men",
@@ -431,30 +520,36 @@
     "tags": ["nike", "lifestyle"],
     "rating": 5,
     "variants": [
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/17.jpg"
-    },
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/21.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/12.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/15.jpg"
-    }]
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/17.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/21.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/12.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/15.jpg"
+      }
+    ]
   },
   {
     "id": 16,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/24.jpg", "/assets/images/fashion/product/22.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/24.jpg",
+      "/assets/images/fashion/product/22.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -466,26 +561,32 @@
     "tags": ["nike", "lifestyle"],
     "rating": 4,
     "variants": [
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/3.jpg"
-    },
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/10.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/24.jpg"
-    }]
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/3.jpg"
+      },
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/10.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/24.jpg"
+      }
+    ]
   },
   {
     "id": 20,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/25.jpg", "/assets/images/fashion/product/20.jpg", "/assets/images/fashion/product/24.jpg", "/assets/images/fashion/product/34.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/25.jpg",
+      "/assets/images/fashion/product/20.jpg",
+      "/assets/images/fashion/product/24.jpg",
+      "/assets/images/fashion/product/34.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -497,26 +598,32 @@
     "tags": ["nike", "lifestyle"],
     "rating": 4,
     "variants": [
-    {
-      "color": "red",
-      "images": "/assets/images/fashion/product/25.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/24.jpg"
-    },
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/34.jpg"
-    }]
+      {
+        "color": "red",
+        "images": "/assets/images/fashion/product/25.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/24.jpg"
+      },
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/34.jpg"
+      }
+    ]
   },
   {
     "id": 21,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/20.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/20.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -528,26 +635,32 @@
     "tags": ["lifestyle", "nike"],
     "rating": 5,
     "variants": [
-    {
-      "color": "orange",
-      "images": "/assets/images/fashion/product/7.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/6.jpg"
-    },
-    {
-      "color": "red",
-      "images": "/assets/images/fashion/product/20.jpg"
-    }]
+      {
+        "color": "orange",
+        "images": "/assets/images/fashion/product/7.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/6.jpg"
+      },
+      {
+        "color": "red",
+        "images": "/assets/images/fashion/product/20.jpg"
+      }
+    ]
   },
   {
     "id": 22,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/43.jpg", "/assets/images/fashion/product/59.jpg", "/assets/images/fashion/product/42.jpg", "/assets/images/fashion/product/57.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/43.jpg",
+      "/assets/images/fashion/product/59.jpg",
+      "/assets/images/fashion/product/42.jpg",
+      "/assets/images/fashion/product/57.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -559,26 +672,32 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/43.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/59.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/42.jpg"
-    }]
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/43.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/59.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/42.jpg"
+      }
+    ]
   },
   {
     "id": 23,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/66.jpg", "/assets/images/fashion/product/47.jpg", "/assets/images/fashion/product/74.jpg", "/assets/images/fashion/product/46.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/66.jpg",
+      "/assets/images/fashion/product/47.jpg",
+      "/assets/images/fashion/product/74.jpg",
+      "/assets/images/fashion/product/46.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -590,29 +709,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 5,
     "variants": [
-    {
-      "color": "orange",
-      "images": "/assets/images/fashion/product/66.jpg"
-    },
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/47.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/74.jpg"
-    }]
+      {
+        "color": "orange",
+        "images": "/assets/images/fashion/product/66.jpg"
+      },
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/47.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/74.jpg"
+      }
+    ]
   },
   {
     "id": 24,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/56.jpg", "/assets/images/fashion/product/49.jpg", "/assets/images/fashion/product/72.jpg", "/assets/images/fashion/product/74.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/56.jpg",
+      "/assets/images/fashion/product/49.jpg",
+      "/assets/images/fashion/product/72.jpg",
+      "/assets/images/fashion/product/74.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": true,
     "sale": true,
     "category": "men",
@@ -621,25 +746,31 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/56.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/72.jpg"
-    }]
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/56.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/72.jpg"
+      }
+    ]
   },
   {
     "id": 25,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/47.jpg", "/assets/images/fashion/product/46.jpg", "/assets/images/fashion/product/55.jpg", "/assets/images/fashion/product/52.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/47.jpg",
+      "/assets/images/fashion/product/46.jpg",
+      "/assets/images/fashion/product/55.jpg",
+      "/assets/images/fashion/product/52.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": false,
     "category": "men",
@@ -648,29 +779,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 5,
     "variants": [
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/47.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/46.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/55.jpg"
-    }]
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/47.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/46.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/55.jpg"
+      }
+    ]
   },
   {
     "id": 26,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/63.jpg", "/assets/images/fashion/product/46.jpg", "/assets/images/fashion/product/51.jpg", "/assets/images/fashion/product/52.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/63.jpg",
+      "/assets/images/fashion/product/46.jpg",
+      "/assets/images/fashion/product/51.jpg",
+      "/assets/images/fashion/product/52.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": true,
     "category": "men",
@@ -679,29 +816,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/63.jpg"
-    },
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/46.jpg"
-    },
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/51.jpg"
-    }]
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/63.jpg"
+      },
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/46.jpg"
+      },
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/51.jpg"
+      }
+    ]
   },
   {
     "id": 27,
     "name": "Pocket T-Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/73.jpg", "/assets/images/fashion/product/72.jpg", "/assets/images/fashion/product/80.jpg", "/assets/images/fashion/product/42.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/73.jpg",
+      "/assets/images/fashion/product/72.jpg",
+      "/assets/images/fashion/product/80.jpg",
+      "/assets/images/fashion/product/42.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": true,
     "sale": true,
     "category": "men",
@@ -710,29 +853,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "orange",
-      "images": "/assets/images/fashion/product/73.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/72.jpg"
-    },
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/80.jpg"
-    }]
+      {
+        "color": "orange",
+        "images": "/assets/images/fashion/product/73.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/72.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/80.jpg"
+      }
+    ]
   },
   {
     "id": 28,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/55.jpg", "/assets/images/fashion/product/57.jpg", "/assets/images/fashion/product/47.jpg", "/assets/images/fashion/product/76.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/55.jpg",
+      "/assets/images/fashion/product/57.jpg",
+      "/assets/images/fashion/product/47.jpg",
+      "/assets/images/fashion/product/76.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": false,
     "category": "men",
@@ -741,25 +890,31 @@
     "tags": ["lifestyle", "nike"],
     "rating": 5,
     "variants": [
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/55.jpg"
-    },
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/47.jpg"
-    }]
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/55.jpg"
+      },
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/47.jpg"
+      }
+    ]
   },
   {
     "id": 29,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/51.jpg", "/assets/images/fashion/product/66.jpg", "/assets/images/fashion/product/62.jpg", "/assets/images/fashion/product/77.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/51.jpg",
+      "/assets/images/fashion/product/66.jpg",
+      "/assets/images/fashion/product/62.jpg",
+      "/assets/images/fashion/product/77.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": false,
     "category": "men",
@@ -768,29 +923,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/51.jpg"
-    },
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/66.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/62.jpg"
-    }]
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/51.jpg"
+      },
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/66.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/62.jpg"
+      }
+    ]
   },
   {
     "id": 30,
     "name": "Sweetware T-Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/78.jpg", "/assets/images/fashion/product/71.jpg", "/assets/images/fashion/product/72.jpg", "/assets/images/fashion/product/53.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/78.jpg",
+      "/assets/images/fashion/product/71.jpg",
+      "/assets/images/fashion/product/72.jpg",
+      "/assets/images/fashion/product/53.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": true,
     "sale": false,
     "category": "men",
@@ -799,25 +960,31 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "blue",
-      "images": "/assets/images/fashion/product/78.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/71.jpg"
-    }]
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/78.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/71.jpg"
+      }
+    ]
   },
   {
     "id": 31,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/49.jpg", "/assets/images/fashion/product/72.jpg", "/assets/images/fashion/product/60.jpg", "/assets/images/fashion/product/66.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/49.jpg",
+      "/assets/images/fashion/product/72.jpg",
+      "/assets/images/fashion/product/60.jpg",
+      "/assets/images/fashion/product/66.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": true,
     "category": "men",
@@ -826,29 +993,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/49.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/72.jpg"
-    },
-    {
-      "color": "red",
-      "images": "/assets/images/fashion/product/60.jpg"
-    }]
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/49.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/72.jpg"
+      },
+      {
+        "color": "red",
+        "images": "/assets/images/fashion/product/60.jpg"
+      }
+    ]
   },
   {
     "id": 32,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/47.jpg", "/assets/images/fashion/product/79.jpg", "/assets/images/fashion/product/70.jpg", "/assets/images/fashion/product/42.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/47.jpg",
+      "/assets/images/fashion/product/79.jpg",
+      "/assets/images/fashion/product/70.jpg",
+      "/assets/images/fashion/product/42.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": true,
     "sale": true,
     "category": "men",
@@ -857,22 +1030,28 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/47.jpg"
-    },
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/79.jpg"
-    }]
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/47.jpg"
+      },
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/79.jpg"
+      }
+    ]
   },
   {
     "id": 33,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/51.jpg", "/assets/images/fashion/product/77.jpg", "/assets/images/fashion/product/65.jpg", "/assets/images/fashion/product/74.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/51.jpg",
+      "/assets/images/fashion/product/77.jpg",
+      "/assets/images/fashion/product/65.jpg",
+      "/assets/images/fashion/product/74.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -884,29 +1063,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "yellow",
-      "images": "/assets/images/fashion/product/51.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/77.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/65.jpg"
-    }]
+      {
+        "color": "yellow",
+        "images": "/assets/images/fashion/product/51.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/77.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/65.jpg"
+      }
+    ]
   },
   {
     "id": 34,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/76.jpg", "/assets/images/fashion/product/60.jpg", "/assets/images/fashion/product/66.jpg", "/assets/images/fashion/product/67.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/76.jpg",
+      "/assets/images/fashion/product/60.jpg",
+      "/assets/images/fashion/product/66.jpg",
+      "/assets/images/fashion/product/67.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": true,
     "sale": true,
     "category": "men",
@@ -915,25 +1100,31 @@
     "tags": ["lifestyle", "nike"],
     "rating": 5,
     "variants": [
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/76.jpg"
-    },
-    {
-      "color": "red",
-      "images": "/assets/images/fashion/product/60.jpg"
-    }]
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/76.jpg"
+      },
+      {
+        "color": "red",
+        "images": "/assets/images/fashion/product/60.jpg"
+      }
+    ]
   },
   {
     "id": 35,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/67.jpg", "/assets/images/fashion/product/77.jpg", "/assets/images/fashion/product/71.jpg", "/assets/images/fashion/product/72.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/67.jpg",
+      "/assets/images/fashion/product/77.jpg",
+      "/assets/images/fashion/product/71.jpg",
+      "/assets/images/fashion/product/72.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": false,
     "category": "men",
@@ -942,25 +1133,31 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/67.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/77.jpg"
-    }]
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/67.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/77.jpg"
+      }
+    ]
   },
   {
     "id": 36,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/61.jpg", "/assets/images/fashion/product/75.jpg", "/assets/images/fashion/product/56.jpg", "/assets/images/fashion/product/42.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/61.jpg",
+      "/assets/images/fashion/product/75.jpg",
+      "/assets/images/fashion/product/56.jpg",
+      "/assets/images/fashion/product/42.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": false,
     "category": "men",
@@ -969,29 +1166,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "blue",
-      "images": "/assets/images/fashion/product/61.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/75.jpg"
-    },
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/56.jpg"
-    }]
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/61.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/75.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/56.jpg"
+      }
+    ]
   },
   {
     "id": 37,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/66.jpg", "/assets/images/fashion/product/75.jpg", "/assets/images/fashion/product/78.jpg", "/assets/images/fashion/product/80.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/66.jpg",
+      "/assets/images/fashion/product/75.jpg",
+      "/assets/images/fashion/product/78.jpg",
+      "/assets/images/fashion/product/80.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": false,
     "category": "men",
@@ -1000,25 +1203,31 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "red",
-      "images": "/assets/images/fashion/product/66.jpg"
-    },
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/75.jpg"
-    }]
+      {
+        "color": "red",
+        "images": "/assets/images/fashion/product/66.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/75.jpg"
+      }
+    ]
   },
   {
     "id": 38,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/60.jpg", "/assets/images/fashion/product/74.jpg", "/assets/images/fashion/product/47.jpg", "/assets/images/fashion/product/72.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/60.jpg",
+      "/assets/images/fashion/product/74.jpg",
+      "/assets/images/fashion/product/47.jpg",
+      "/assets/images/fashion/product/72.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": true,
     "category": "men",
@@ -1027,29 +1236,35 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "orange",
-      "images": "/assets/images/fashion/product/60.jpg"
-    },
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/74.jpg"
-    },
-    {
-      "color": "green",
-      "images": "/assets/images/fashion/product/47.jpg"
-    }]
+      {
+        "color": "orange",
+        "images": "/assets/images/fashion/product/60.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/74.jpg"
+      },
+      {
+        "color": "green",
+        "images": "/assets/images/fashion/product/47.jpg"
+      }
+    ]
   },
   {
     "id": 39,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/70.jpg", "/assets/images/fashion/product/67.jpg", "/assets/images/fashion/product/64.jpg", "/assets/images/fashion/product/65.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/70.jpg",
+      "/assets/images/fashion/product/67.jpg",
+      "/assets/images/fashion/product/64.jpg",
+      "/assets/images/fashion/product/65.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": false,
     "sale": false,
     "category": "men",
@@ -1058,25 +1273,31 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/70.jpg"
-    },
-    {
-      "color": "pink",
-      "images": "/assets/images/fashion/product/67.jpg"
-    }]
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/70.jpg"
+      },
+      {
+        "color": "pink",
+        "images": "/assets/images/fashion/product/67.jpg"
+      }
+    ]
   },
   {
     "id": 40,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/69.jpg", "/assets/images/fashion/product/55.jpg", "/assets/images/fashion/product/57.jpg", "/assets/images/fashion/product/75.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/69.jpg",
+      "/assets/images/fashion/product/55.jpg",
+      "/assets/images/fashion/product/57.jpg",
+      "/assets/images/fashion/product/75.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": true,
     "sale": true,
     "category": "men",
@@ -1085,21 +1306,27 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/69.jpg"
-    }]
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/69.jpg"
+      }
+    ]
   },
   {
     "id": 41,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/49.jpg", "/assets/images/fashion/product/65.jpg", "/assets/images/fashion/product/68.jpg", "/assets/images/fashion/product/69.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/49.jpg",
+      "/assets/images/fashion/product/65.jpg",
+      "/assets/images/fashion/product/68.jpg",
+      "/assets/images/fashion/product/69.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-  "stock": 10,
+    "stock": 10,
     "new": true,
     "sale": true,
     "category": "men",
@@ -1108,22 +1335,28 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "blue",
-      "images": "/assets/images/fashion/product/49.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/65.jpg"
-    }]
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/49.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/65.jpg"
+      }
+    ]
   },
   {
     "id": 42,
     "name": "Men Handblock Casual Shirt",
-    "price": 1999.00,
-    "salePrice": 999.00,
+    "price": 1999.0,
+    "salePrice": 999.0,
     "discount": 50,
-    "pictures": ["/assets/images/fashion/product/62.jpg", "/assets/images/fashion/product/45.jpg", "/assets/images/fashion/product/48.jpg", "/assets/images/fashion/product/49.jpg"],
+    "pictures": [
+      "/assets/images/fashion/product/62.jpg",
+      "/assets/images/fashion/product/45.jpg",
+      "/assets/images/fashion/product/48.jpg",
+      "/assets/images/fashion/product/49.jpg"
+    ],
     "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
     "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
     "stock": 10,
@@ -1135,1188 +1368,1539 @@
     "tags": ["lifestyle", "nike"],
     "rating": 4,
     "variants": [
-    {
-      "color": "gray",
-      "images": "/assets/images/fashion/product/62.jpg"
-    },
-    {
-      "color": "black",
-      "images": "/assets/images/fashion/product/45.jpg"
-    },
-    {
-      "color": "white",
-      "images": "/assets/images/fashion/product/48.jpg"
-    }]
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/62.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/45.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/48.jpg"
+      }
+    ]
   },
-  
- {
-      "id": 49,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 10,
-      "pictures": ["/assets/images/fashion/product/49.jpg", "/assets/images/fashion/product/65.jpg", "/assets/images/fashion/product/68.jpg", "/assets/images/fashion/product/69.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 2,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 50,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/vegetables/pro/2.jpg", "/assets/images/vegetables/pro/4.jpg", "/assets/images/vegetables/pro/1.jpg", "/assets/images/vegetables/pro/4.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 2,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 51,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 10,
-      "pictures": ["/assets/images/fashion/product/49.jpg", "/assets/images/fashion/product/65.jpg", "/assets/images/fashion/product/68.jpg", "/assets/images/fashion/product/69.jpg", "/assets/images/fashion/pro/5.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 2,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 52,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/49.jpg", "/assets/images/fashion/product/65.jpg", "/assets/images/fashion/product/68.jpg", "/assets/images/fashion/product/69.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 2,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 52,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/49.jpg", "/assets/images/fashion/product/65.jpg", "/assets/images/fashion/product/68.jpg", "/assets/images/fashion/product/69.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 2,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 53,
-      "name": "Black Leather Watch",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/49.jpg", "/assets/images/fashion/product/65.jpg", "/assets/images/fashion/product/68.jpg", "/assets/images/fashion/product/69.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 5,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "colors": ["black"],
-      "tags": ["titan","reebok"],
-      "variants": [
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/3.jpg"
-        }]
-    },
-    {
-      "id": 54,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/12.jpg", "/assets/images/fashion/product/10.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "colors": ["white","black"],
-      "tags": ["titan", "unisex"],
-      "variants": [
-        {
-          "color": "white",
-          "images": "/assets/images/fashion/product/1.jpg"
-        },
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/11.jpg"
-        }]
-    },
-    {
-      "id": 55,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/5.jpg", "/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/9.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "colors": ["blue","black"],
-      "tags": ["reebok","rolex", "unisex"],
-      "variants": [
-        {
-          "color": "blue",
-          "images": "/assets/images/fashion/product/5.jpg"
-        },
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/11.jpg"
-        }]
-    },
-    {
-      "id": 56,
-      "name": "Golden Strap Watch",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/1.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "colors": ["brown","black"],
-      "tags": ["reebok","rolex", "unisex"],
-      "variants": [
-        {
-          "color": "brown",
-          "images": "/assets/images/fashion/product/7.jpg"
-        },
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/11.jpg"
-        }]
-    },
-    {
-      "id": 57,
-      "name": "Men brown Watch",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/12.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/11jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "colors": ["brown","white"],
-      "tags": ["reebok","rolex", "unisex"],
-      "variants": [
-        {
-          "color": "brown",
-          "images": "/assets/images/fashion/product/12.jpg"
-        },
-        {
-          "color": "white",
-          "images": "/assets/images/fashion/product/1.jpg"
-        }]
-    },
-    {
-      "id": 58,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/12jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "colors": ["black","gray"],
-      "tags": ["unisex","rolex","titan"],
-      "variants": [
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/11.jpg"
-        },
-        {
-          "color": "gray",
-          "images": "/assets/images/fashion/product/1.jpg"
-        }]
-    },
-    {
-      "id": 59,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/12jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "colors": ["blue","white","gray"],
-      "tags": ["reebok","rolex","titan"],
-      "variants": [
-        {
-          "color": "blue",
-          "images": "/assets/images/fashion/product/10.jpg"
-        },
-        {
-          "color": "white",
-          "images": "/assets/images/fashion/product/1.jpg"
-        },
-        {
-          "color": "gray",
-          "images": "/assets/images/fashion/product/3.jpg"
-        }]
-    },
-    {
-      "id": 60,
-      "name": "brown Strap Watch",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/12jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "colors": ["brown","gray"],
-      "tags": ["reebok", "unisex","titan"],
-      "variants": [
-        {
-          "color": "brown",
-          "images": "/assets/images/fashion/product/9.jpg"
-        },
-        {
-          "color": "gray",
-          "images": "/assets/images/fashion/product/3.jpg"
-        }]
-    },
-    {
-      "id": 61,
-      "name": "Black Leather Watch",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/9.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 5,
-      "new": false,
-      "sale": false,
-      "category": "fashion",
-      "colors": ["black"],
-      "tags": ["titan", "unisex"],
-      "variants": [
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/3.jpg"
-        }]
-    },
-    {
-      "id": 62,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/12.jpg", "/assets/images/fashion/product/10.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "colors": ["white","black"],
-      "tags": ["titan", "unisex"],
-      "variants": [
-        {
-          "color": "white",
-          "images": "/assets/images/fashion/product/1.jpg"
-        },
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/11.jpg"
-        }]
-    },
-    {
-      "id": 63,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/5.jpg", "/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/9.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "colors": ["blue","black"],
-      "tags": ["reebok","rolex"],
-      "variants": [
-        {
-          "color": "blue",
-          "images": "/assets/images/fashion/product/5.jpg"
-        },
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/11.jpg"
-        }]
-    },
-    {
-      "id": 64,
-      "name": "Golden Strap Watch",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/1.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "colors": ["brown","black"],
-      "tags": ["reebok", "unisex"],
-      "variants": [
-        {
-          "color": "brown",
-          "images": "/assets/images/fashion/product/7.jpg"
-        },
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/11.jpg"
-        }]
-    },
-    {
-      "id": 65,
-      "name": "Men brown Watch",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/12.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/11jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "colors": ["brown","white"],
-      "tags": ["reebok","rolex", "unisex"],
-      "variants": [
-        {
-          "color": "brown",
-          "images": "/assets/images/fashion/product/12.jpg"
-        },
-        {
-          "color": "white",
-          "images": "/assets/images/fashion/product/1.jpg"
-        }]
-    },
-    {
-      "id": 66,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/12jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "colors": ["black","gray"],
-      "tags": ["unisex","rolex","titan"],
-      "variants": [
-        {
-          "color": "black",
-          "images": "/assets/images/fashion/product/11.jpg"
-        },
-        {
-          "color": "gray",
-          "images": "/assets/images/fashion/product/1.jpg"
-        }]
-    },
-    {
-      "id": 67,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/12jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "colors": ["blue","white","gray"],
-      "tags": ["reebok","rolex","titan"],
-      "variants": [
-        {
-          "color": "blue",
-          "images": "/assets/images/fashion/product/10.jpg"
-        },
-        {
-          "color": "white",
-          "images": "/assets/images/fashion/product/1.jpg"
-        },
-        {
-          "color": "gray",
-          "images": "/assets/images/fashion/product/3.jpg"
-        }]
-    },
-    {
-      "id": 68,
-      "name": "brown Strap Watch",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/12jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "colors": ["brown","gray"],
-      "tags": ["reebok","rolex","titan"],
-      "variants": [
-        {
-          "color": "brown",
-          "images": "/assets/images/fashion/product/9.jpg"
-        },
-        {
-          "color": "gray",
-          "images": "/assets/images/fashion/product/3.jpg"
-        }]
-    },
-  
-  
-  
-  
-    {
-      "id": 69,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/4.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": true,
-      "category": "fashion",
-      "tags": ["craft","durian","vittoria","aura"]
-    },
-    {
-      "id": 70,
-      "name": "Black Chair",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/4.jpg", "/assets/images/fashion/product/5.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "tags": ["durian","vittoria"]
-    },
-    {
-      "id": 71,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/4.jpg", "/assets/images/fashion/product/5.jpg", "/assets/images/fashion/product/6.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 2,
-      "new": true,
-      "sale": true,
-      "category": "fashion",
-      "tags": ["durian","vittoria","aura"]
-    },
-    {
-      "id": 72,
-      "name": "Foldable Table",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/4.jpg", "/assets/images/fashion/product/5.jpg", "/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/7.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": true,
-      "category": "fashion",
-      "tags": ["craft","vittoria","aura"]
-    },
-    {
-      "id": 73,
-      "name": "Men Handblock Casual Shirt",
-      "price": 130.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/8.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "tags": ["craft","durian","aura"]
-    },
-    {
-      "id": 74,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/8.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": true,
-      "category": "fashion",
-      "tags": ["craft","aura"]
-    },
-    {
-      "id": 75,
-      "name": "Men Handblock Casual Shirt",
-      "price": 160.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/12.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/8.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 4,
-      "new": true,
-      "sale": true,
-      "category": "fashion",
-      "tags": ["aura"]
-    },
-    {
-      "id": 76,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/12.jpg", "/assets/images/fashion/product/13.jpg", "/assets/images/fashion/product/8.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion",
-      "tags": ["durian","aura"]
-    },
-    {
-      "id": 77,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/22.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/13.jpg", "/assets/images/fashion/product/8.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": false,
-      "sale": true,
-      "category": "fashion",
-      "tags": ["durian"]
-    },
-    {
-      "id": 78,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/19.jpg", "/assets/images/fashion/product/13.jpg", "/assets/images/fashion/product/8.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 10,
-      "new": true,
-      "sale": true,
-      "category": "fashion",
-      "tags": ["craft","durian","aura"]
-    },
-    {
-      "id": 79,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/5.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 1,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 80,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/4.jpg", "/assets/images/fashion/product/5.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 8,
-      "new": true,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 81,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/4.jpg", "/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/5.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 6,
-      "new": true,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 82,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/4.jpg", "/assets/images/fashion/product/5.jpg", "/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/7.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 1,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 83,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/5.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/7.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 8,
-      "new": true,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 84,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 11,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 85,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 86,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/fashion/4.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 87,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product1.jpg", "/assets/images/fashion/product4.jpg", "/assets/images/fashion/product/5.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 88,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/3.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 89,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/1.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 90,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/4.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 91,
-      "name": "Men Handblock Casual Shirt",
-      "price": 220.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 92,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 93,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/fashion/4.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 94,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/4.jpg", "/assets/images/fashion/product/5.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 95,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/3.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 96,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/1.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 97,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/2.jpg", "/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/4.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 98,
-      "name": "Men Handblock Casual Shirt",
-      "price": 220.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 99,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "category": "fashion"
-    },
-  
-  
-  
-    {
-      "id": 100,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/4.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "category": "fashion"
-    },
-    {
-      "id": 101,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product2.jpg", "/assets/images/fashion/product3.jpg", "/assets/images/fashion/product4.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 102,
-      "name": "Men Handblock Casual Shirt and Chicken",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product7.jpg", "/assets/images/fashion/product/8.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 103,
-      "name": "Roasted Bison",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/9.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/1.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 104,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/14.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 105,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/14.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 106,
-      "name": "Men Handblock Casual Shirt",
-      "price": 130.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/15.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 107,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-    {
-      "id": 108,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/11.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": false,
-      "category": "fashion"
-    },
-  
-  
-    {
-      "id": 120,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product1.jpg", "/assets/images/fashion/product2.jpg", "/assets/images/fashion/product3.jpg", "/assets/images/fashion/product4.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": false,
-      "rating": 4,
-      "category": "fashion"
-    },
-    {
-      "id": 121,
-      "name": "Men Handblock Casual Shirt and Chicken",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product8.jpg", "/assets/images/fashion/product6.jpg", "/assets/images/fashion/product7.jpg", "/assets/images/fashion/product/8.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "rating": 3,
-      "category": "fashion"
-    },
-    {
-      "id": 122,
-      "name": "Roasted Bison",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "rating": 4,
-      "category": "fashion"
-    },
-    {
-      "id": 123,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": false,
-      "rating": 5,
-      "category": "fashion"
-    },
-    {
-      "id": 124,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "rating": 4,
-      "category": "fashion"
-    },
-    {
-      "id": 125,
-      "name": "Men Handblock Casual Shirt",
-      "price": 130.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "rating": 3,
-      "category": "fashion"
-    },
-    {
-      "id": 126,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": false,
-      "sale": true,
-      "rating": 4,
-      "category": "fashion"
-    },
-    {
-      "id": 127,
-      "name": "Men Handblock Casual Shirt",
-      "price": 1999.00,
-      "salePrice": 999.00,
-      "discount": 50,
-      "pictures": ["/assets/images/fashion/product/1.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/36.jpg", "/assets/images/fashion/product/12.jpg"],
-      "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
-      "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
-      "stock": 20,
-      "new": true,
-      "sale": true,
-      "rating": 4,
-      "category": "fashion"
-    }
-  ]
-  
+  {
+    "id": 49,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 10,
+    "pictures": [
+      "/assets/images/fashion/product/49.jpg",
+      "/assets/images/fashion/product/65.jpg",
+      "/assets/images/fashion/product/68.jpg",
+      "/assets/images/fashion/product/69.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 2,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 50,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/vegetables/pro/2.jpg",
+      "/assets/images/vegetables/pro/4.jpg",
+      "/assets/images/vegetables/pro/1.jpg",
+      "/assets/images/vegetables/pro/4.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 2,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 51,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 10,
+    "pictures": [
+      "/assets/images/fashion/product/49.jpg",
+      "/assets/images/fashion/product/65.jpg",
+      "/assets/images/fashion/product/68.jpg",
+      "/assets/images/fashion/product/69.jpg",
+      "/assets/images/fashion/pro/5.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 2,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 52,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/49.jpg",
+      "/assets/images/fashion/product/65.jpg",
+      "/assets/images/fashion/product/68.jpg",
+      "/assets/images/fashion/product/69.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 2,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 52,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/49.jpg",
+      "/assets/images/fashion/product/65.jpg",
+      "/assets/images/fashion/product/68.jpg",
+      "/assets/images/fashion/product/69.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 2,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 53,
+    "name": "Black Leather Watch",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/49.jpg",
+      "/assets/images/fashion/product/65.jpg",
+      "/assets/images/fashion/product/68.jpg",
+      "/assets/images/fashion/product/69.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 5,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "colors": ["black"],
+    "tags": ["titan", "reebok"],
+    "variants": [
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/12.jpg",
+      "/assets/images/fashion/product/10.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "colors": ["white", "black"],
+    "tags": ["titan", "unisex"],
+    "variants": [
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/1.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/5.jpg",
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/9.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "colors": ["blue", "black"],
+    "tags": ["reebok", "rolex", "unisex"],
+    "variants": [
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/5.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Golden Strap Watch",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/1.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "colors": ["brown", "black"],
+    "tags": ["reebok", "rolex", "unisex"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/fashion/product/7.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Men brown Watch",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/12.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/11jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "colors": ["brown", "white"],
+    "tags": ["reebok", "rolex", "unisex"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/fashion/product/12.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/12jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "colors": ["black", "gray"],
+    "tags": ["unisex", "rolex", "titan"],
+    "variants": [
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/12jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "colors": ["blue", "white", "gray"],
+    "tags": ["reebok", "rolex", "titan"],
+    "variants": [
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/10.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/1.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "brown Strap Watch",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/12jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "colors": ["brown", "gray"],
+    "tags": ["reebok", "unisex", "titan"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/fashion/product/9.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Black Leather Watch",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/9.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 5,
+    "new": false,
+    "sale": false,
+    "category": "fashion",
+    "colors": ["black"],
+    "tags": ["titan", "unisex"],
+    "variants": [
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/12.jpg",
+      "/assets/images/fashion/product/10.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "colors": ["white", "black"],
+    "tags": ["titan", "unisex"],
+    "variants": [
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/1.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/5.jpg",
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/9.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "colors": ["blue", "black"],
+    "tags": ["reebok", "rolex"],
+    "variants": [
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/5.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Golden Strap Watch",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/1.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "colors": ["brown", "black"],
+    "tags": ["reebok", "unisex"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/fashion/product/7.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Men brown Watch",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/12.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/11jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "colors": ["brown", "white"],
+    "tags": ["reebok", "rolex", "unisex"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/fashion/product/12.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/12jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "colors": ["black", "gray"],
+    "tags": ["unisex", "rolex", "titan"],
+    "variants": [
+      {
+        "color": "black",
+        "images": "/assets/images/fashion/product/11.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/12jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "colors": ["blue", "white", "gray"],
+    "tags": ["reebok", "rolex", "titan"],
+    "variants": [
+      {
+        "color": "blue",
+        "images": "/assets/images/fashion/product/10.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/fashion/product/1.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "brown Strap Watch",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/12jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "colors": ["brown", "gray"],
+    "tags": ["reebok", "rolex", "titan"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/fashion/product/9.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/fashion/product/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/4.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": true,
+    "category": "fashion",
+    "tags": ["craft", "durian", "vittoria", "aura"]
+  },
+  {
+    "id": 70,
+    "name": "Black Chair",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/4.jpg",
+      "/assets/images/fashion/product/5.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "tags": ["durian", "vittoria"]
+  },
+  {
+    "id": 71,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/4.jpg",
+      "/assets/images/fashion/product/5.jpg",
+      "/assets/images/fashion/product/6.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 2,
+    "new": true,
+    "sale": true,
+    "category": "fashion",
+    "tags": ["durian", "vittoria", "aura"]
+  },
+  {
+    "id": 72,
+    "name": "Foldable Table",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/4.jpg",
+      "/assets/images/fashion/product/5.jpg",
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/7.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": true,
+    "category": "fashion",
+    "tags": ["craft", "vittoria", "aura"]
+  },
+  {
+    "id": 73,
+    "name": "Men Handblock Casual Shirt",
+    "price": 130.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/8.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "tags": ["craft", "durian", "aura"]
+  },
+  {
+    "id": 74,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/8.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": true,
+    "category": "fashion",
+    "tags": ["craft", "aura"]
+  },
+  {
+    "id": 75,
+    "name": "Men Handblock Casual Shirt",
+    "price": 160.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/12.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/8.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 4,
+    "new": true,
+    "sale": true,
+    "category": "fashion",
+    "tags": ["aura"]
+  },
+  {
+    "id": 76,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/12.jpg",
+      "/assets/images/fashion/product/13.jpg",
+      "/assets/images/fashion/product/8.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion",
+    "tags": ["durian", "aura"]
+  },
+  {
+    "id": 77,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/22.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/13.jpg",
+      "/assets/images/fashion/product/8.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "fashion",
+    "tags": ["durian"]
+  },
+  {
+    "id": 78,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/19.jpg",
+      "/assets/images/fashion/product/13.jpg",
+      "/assets/images/fashion/product/8.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 10,
+    "new": true,
+    "sale": true,
+    "category": "fashion",
+    "tags": ["craft", "durian", "aura"]
+  },
+  {
+    "id": 79,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/5.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 1,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 80,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/4.jpg",
+      "/assets/images/fashion/product/5.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 8,
+    "new": true,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 81,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/4.jpg",
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/5.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 82,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/4.jpg",
+      "/assets/images/fashion/product/5.jpg",
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/7.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 1,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 83,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/5.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/7.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 8,
+    "new": true,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 84,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 11,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 85,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 86,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/fashion/4.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 87,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product1.jpg",
+      "/assets/images/fashion/product4.jpg",
+      "/assets/images/fashion/product/5.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 88,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/3.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 89,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/1.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 90,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/4.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 91,
+    "name": "Men Handblock Casual Shirt",
+    "price": 220.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 92,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 93,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/fashion/4.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 94,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/4.jpg",
+      "/assets/images/fashion/product/5.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 95,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/3.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 96,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/1.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 97,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/2.jpg",
+      "/assets/images/fashion/product/3.jpg",
+      "/assets/images/fashion/product/4.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 98,
+    "name": "Men Handblock Casual Shirt",
+    "price": 220.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 99,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 100,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/4.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "category": "fashion"
+  },
+  {
+    "id": 101,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product2.jpg",
+      "/assets/images/fashion/product3.jpg",
+      "/assets/images/fashion/product4.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 102,
+    "name": "Men Handblock Casual Shirt and Chicken",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product7.jpg",
+      "/assets/images/fashion/product/8.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 103,
+    "name": "Roasted Bison",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/9.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/1.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 104,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/14.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 105,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/14.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 106,
+    "name": "Men Handblock Casual Shirt",
+    "price": 130.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/11.jpg",
+      "/assets/images/fashion/product/15.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 107,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/6.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 108,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/7.jpg",
+      "/assets/images/fashion/product/10.jpg",
+      "/assets/images/fashion/product/8.jpg",
+      "/assets/images/fashion/product/11.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": false,
+    "category": "fashion"
+  },
+  {
+    "id": 120,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product1.jpg",
+      "/assets/images/fashion/product2.jpg",
+      "/assets/images/fashion/product3.jpg",
+      "/assets/images/fashion/product4.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": false,
+    "rating": 4,
+    "category": "fashion"
+  },
+  {
+    "id": 121,
+    "name": "Men Handblock Casual Shirt and Chicken",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product8.jpg",
+      "/assets/images/fashion/product6.jpg",
+      "/assets/images/fashion/product7.jpg",
+      "/assets/images/fashion/product/8.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "rating": 3,
+    "category": "fashion"
+  },
+  {
+    "id": 122,
+    "name": "Roasted Bison",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "rating": 4,
+    "category": "fashion"
+  },
+  {
+    "id": 123,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": false,
+    "rating": 5,
+    "category": "fashion"
+  },
+  {
+    "id": 124,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "rating": 4,
+    "category": "fashion"
+  },
+  {
+    "id": 125,
+    "name": "Men Handblock Casual Shirt",
+    "price": 130.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "rating": 3,
+    "category": "fashion"
+  },
+  {
+    "id": 126,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": false,
+    "sale": true,
+    "rating": 4,
+    "category": "fashion"
+  },
+  {
+    "id": 127,
+    "name": "Men Handblock Casual Shirt",
+    "price": 1999.0,
+    "salePrice": 999.0,
+    "discount": 50,
+    "pictures": [
+      "/assets/images/fashion/product/1.jpg",
+      "/assets/images/fashion/product/21.jpg",
+      "/assets/images/fashion/product/36.jpg",
+      "/assets/images/fashion/product/12.jpg"
+    ],
+    "shortDetails": "Handblock print casual shirt, has a spread collar, full sleeves, button placket, straight hem, and 1 patch pocket.,",
+    "description": "We assure to provide you with the finest quality of clothing. Our products are hand printed using natural or pigment dye, so small irregularities are a part of the process. Be accepting of them and be proud of supporting many craft communities.",
+    "stock": 20,
+    "new": true,
+    "sale": true,
+    "rating": 4,
+    "category": "fashion"
+  }
+]
