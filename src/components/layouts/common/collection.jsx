@@ -14,7 +14,7 @@ class TopCollection extends Component {
         const {items, symbol, addToCart, addToWishlist, addToCompare, type} = this.props;
 
         var properties;
-        if(type === 'kids'){
+        if(type === 'fashion'){
             properties = Product5
         }else{
             properties = Product4
