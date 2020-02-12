@@ -117,7 +117,7 @@ class NavBar extends Component {
                   onClick={e => this.handleSubmenu(e)}
                 >
                   {translate("more")}
-                  <span className="sub-arrow"></span>
+                  {/* <span className="sub-arrow"></span> */}
                 </Link>
                 <ul className="nav-submenu">
                   <li>
