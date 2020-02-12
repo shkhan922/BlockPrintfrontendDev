@@ -9,7 +9,7 @@ class ProductListItem extends Component {
         super(props)
 
         this.state = {
-            open: false,
+            open: false, 
             stock: 'InStock',
             quantity: 1,
             image: ''

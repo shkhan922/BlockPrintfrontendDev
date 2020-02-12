@@ -50,7 +50,7 @@ class LeftSideBar extends Component {
         var products = {
             slidesToShow: 1,
             slidesToScroll: 1,
-            dots: false,
+            dots: this.newMethod(),
             arrows: true,
             fade: true
         };
@@ -132,6 +132,10 @@ class LeftSideBar extends Component {
                 {/*Section End*/}
             </div>
         )
+    }
+
+    newMethod() {
+        return false;
     }
 }
 

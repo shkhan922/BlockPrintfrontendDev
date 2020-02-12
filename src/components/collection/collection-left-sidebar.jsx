@@ -89,7 +89,7 @@ class CollectionLeftSidebar extends Component {
                                                         </div>
 
                                                         {/*Products Listing Component*/}
-                                                        <ProductListing colSize={this.state.layoutColumns}/>
+                                                        <ProductListing colSize={this.state.layoutColumns} />
 
                                                     </div>
                                                 </div>
