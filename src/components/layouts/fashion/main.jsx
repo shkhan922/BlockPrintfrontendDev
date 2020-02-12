@@ -57,7 +57,7 @@ class Fashion extends Component {
                                     <div className="row">
                                         <div className="col">
                                             <div className="slider-contain">
-                                                <div>
+                                                <div style={{marginLeft: '1rem'}}>
                                                     <h4>welcome to fashion</h4>
                                                     <h1></h1>
                                                     <Link to={`${process.env.PUBLIC_URL}/left-sidebar/collection`} className="btn btn-solid">shop now</Link>
