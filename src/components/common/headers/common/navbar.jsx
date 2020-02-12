@@ -137,6 +137,11 @@ class NavBar extends Component {
                   {translate("FAQ")}
                 </Link>
               </li>
+            <li>
+                <Link to={`http://thebagrublockprint.com/`}>
+                  {translate("BLOG")}
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
