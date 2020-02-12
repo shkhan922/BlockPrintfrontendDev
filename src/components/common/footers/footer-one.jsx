@@ -32,7 +32,7 @@ class FooterOne extends Component {
                                     <div className="subscribe">
                                         <div>
                                             <h4>KNOW IT ALL FIRST!</h4>
-                                            <p>Never Miss Anything From Multikart By Signing Up To Our Newsletter. </p>
+                                            <p>Never Miss Anything From BlockPrint By Signing Up To Our Newsletter. </p>
                                         </div>
                                     </div>
                                 </div>
