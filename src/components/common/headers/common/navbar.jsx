@@ -133,14 +133,14 @@ class NavBar extends Component {
                 </ul>
               </li>
               <li>
-                <Link to={`${process.env.PUBLIC_URL}/pages/faq`}>
-                  {translate("FAQ")}
-                </Link>
-              </li>
-            <li>
                 <a href="http://thebagrublockprint.com/">
                   {translate("BLOG")}
                 </a>
+              </li>
+              <li>
+                <Link to={`${process.env.PUBLIC_URL}/pages/faq`}>
+                  {translate("FAQ")}
+                </Link>
               </li>
             </ul>
           </div>
