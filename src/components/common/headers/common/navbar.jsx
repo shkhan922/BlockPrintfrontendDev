@@ -138,9 +138,9 @@ class NavBar extends Component {
                 </Link>
               </li>
             <li>
-                <Link to="http://thebagrublockprint.com/">
+                <a href="http://thebagrublockprint.com/">
                   {translate("BLOG")}
-                </Link>
+                </a>
               </li>
             </ul>
           </div>
