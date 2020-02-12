@@ -115,14 +115,13 @@ class NavBar extends Component {
                   to='#'
                   className="nav-link"
                   onClick={e => {
-                    console.log('more')
                     this.handleSubmenu(e)
                   }}
                 >
                   {translate("more")}
                   {/* <span className="sub-arrow"></span> */}
                 </Link>
-                <ul className="nav-submenu">
+                <ul className="nav-submenu mega-menu-container">
                   <li>
                     <Link to={`${process.env.PUBLIC_URL}/pages/about-us`}>
                       {translate("about_us")}
