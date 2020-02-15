@@ -126,7 +126,7 @@ class FooterOne extends Component {
                                             </li>
                                             <li><i className="fa fa-phone"></i>Call Us: 9166019668</li>
                                             <li><i className="fa fa-envelope-o"></i>Email Us: <a
-                                                href="#">Support@blockprint.in</a></li>
+                                                href="#">admin@blockprint.in</a></li>
                                             
                                         </ul>
                                     </div>
