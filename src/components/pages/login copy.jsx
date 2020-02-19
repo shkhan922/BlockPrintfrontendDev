@@ -3,8 +3,6 @@ import { Form, Formik } from "formik";
 import * as Yup from "yup";
 import InputField from "../common/inputField";
 import { loginUser } from "../../services/userService";
-import { getCurrentUser } from "../../services/authService";
-
 import Breadcrumb from "../common/breadcrumb";
 
 export default () => {
@@ -12,7 +10,10 @@ export default () => {
     email: Yup.string()
       .email()
       .required("*required"),
-    password: Yup.string().required("*required")
+    password: Yup.string()
+      .min(4)
+      .max(100)
+      .required("*required")
   });
 
   const initialValues = {
@@ -22,16 +23,11 @@ export default () => {
 
   const handleSubmit = async values => {
     try {
+      localStorage.setItem("name", values.name);
       localStorage.setItem("email", values.email);
 
       const { data } = await loginUser(values.email, values.password);
-
       localStorage.setItem("token", data);
-      const user = getCurrentUser(data);
-      localStorage.setItem("firstName", user.firstName);
-      localStorage.setItem("lastName", user.lastName);
-      localStorage.setItem("_id", user._id);
-      window.location.href = "/";
     } catch (ex) {
       console.log(ex);
     }
@@ -70,17 +66,35 @@ export default () => {
                             type="password"
                           />
                         </div>
-                        <button
-                          type="submit"
-                          className="btn btn-solid"
-                          disabled={!formikBag.dirty || formikBag.isSubmitting}
-                        >
-                          Login
-                        </button>
                       </Form>
                     )}
                   </Formik>
                 </div>
+                <form className="theme-form">
+                  <div className="form-group">
+                    <label htmlFor="email">Email</label>
+                    <input
+                      type="text"
+                      className="form-control"
+                      id="email"
+                      placeholder="Email"
+                      required=""
+                    />
+                  </div>
+                  <div className="form-group">
+                    <label htmlFor="review">Password</label>
+                    <input
+                      type="password"
+                      className="form-control"
+                      id="review"
+                      placeholder="Enter your password"
+                      required=""
+                    />
+                  </div>
+                  <a href="#" className="btn btn-solid">
+                    Login
+                  </a>
+                </form>
               </div>
             </div>
             <div className="col-lg-6 right-login">

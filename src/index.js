@@ -21,7 +21,7 @@ import Pets from './components/layouts/pets/main';
 import Furniture from './components/layouts/furniture/main';
 import Watch from './components/layouts/watch/main';
 import Beauty from './components/layouts/beauty/main';
-import Electronic from './components/layouts/electronic/main';
+import Electronic from './components/layouts/electronic/main'; 
 
 
 //Collection Pages

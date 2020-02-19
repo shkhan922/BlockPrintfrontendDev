@@ -1,65 +1,114 @@
-import React, {Component} from 'react';
-
+import React from "react";
+import { Form, Formik } from "formik";
+import * as Yup from "yup";
 import Breadcrumb from "../common/breadcrumb";
+import InputField from "../common/inputField";
+import { registerUser } from "../../services/userService";
 
-class Register extends Component {
+export default () => {
+  const schema = Yup.object().shape({
+    firstName: Yup.string().required("*required"),
+    lastName: Yup.string().required("*required"),
+    email: Yup.string()
+      .email()
+      .required("*required"),
+    password: Yup.string()
+      .min(5)
+      .max(100)
+      .required("*required")
+  });
 
-    constructor (props) {
-        super (props)
+  const initialValues = {
+    firstName: "",
+    lastName: "",
+    email: "",
+    password: ""
+  };
 
+  const handleSubmit = async values => {
+    try {
+      localStorage.setItem("firstName", values.firstName);
+      localStorage.setItem("lastName", values.lastName);
+      localStorage.setItem("email", values.email);
+
+      const { data, headers } = await registerUser(
+        values.firstName,
+        values.lastName,
+        values.email,
+        values.password
+      );
+
+      localStorage.setItem("_id", data._id);
+      localStorage.setItem("token", headers["x-auth-token"]);
+      window.location.href = "/";
+    } catch (ex) {
+      console.log(ex);
     }
+  };
 
-    render (){
+  return (
+    <div>
+      <Breadcrumb title={"create account"} />
 
-
-        return (
-            <div>
-                <Breadcrumb title={'create account'}/>
-                
-                
-                {/*Regsiter section*/}
-                <section className="register-page section-b-space">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-lg-12">
-                                <h3>create account</h3>
-                                <div className="theme-card">
-                                    <form className="theme-form">
-                                        <div className="form-row">
-                                            <div className="col-md-6">
-                                                <label htmlFor="email">First Name</label>
-                                                <input type="text" className="form-control" id="fname"
-                                                       placeholder="First Name" required="" />
-                                            </div>
-                                            <div className="col-md-6">
-                                                <label htmlFor="review">Last Name</label>
-                                                <input type="password" className="form-control" id="lname"
-                                                       placeholder="Last Name" required="" />
-                                            </div>
-                                        </div>
-                                        <div className="form-row">
-                                            <div className="col-md-6">
-                                                <label htmlFor="email">email</label>
-                                                <input type="text" className="form-control" id="email"
-                                                       placeholder="Email" required="" />
-                                            </div>
-                                            <div className="col-md-6">
-                                                <label htmlFor="review">Password</label>
-                                                <input type="password" className="form-control" id="review"
-                                                       placeholder="Enter your password" required="" />
-                                            </div>
-                                            <a href="#" className="btn btn-solid">create Account</a>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
+      {/*Regsiter section*/}
+      <section className="register-page section-b-space">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-12">
+              <h3>create account</h3>
+              <div className="theme-card">
+                <div className="theme-form">
+                  <Formik
+                    initialValues={initialValues}
+                    validationSchema={schema}
+                    onSubmit={handleSubmit}
+                  >
+                    {formikBag => (
+                      <Form>
+                        <div className="form-row">
+                          <InputField
+                            id="fname"
+                            label="First Name"
+                            name="firstName"
+                            type="text"
+                          />
+                          <InputField
+                            id="lname"
+                            label="Last Name"
+                            name="lastName"
+                            type="text"
+                          />
                         </div>
-                    </div>
-                </section>
-
+                        <div className="form-row">
+                          <InputField
+                            id="email"
+                            label="Email"
+                            name="email"
+                            type="email"
+                          />
+                          <InputField
+                            id="password"
+                            label="Password"
+                            name="password"
+                            type="password"
+                          />
+                        </div>
+                        <button
+                          type="submit"
+                          className="btn btn-solid"
+                          disabled={!formikBag.dirty || formikBag.isSubmitting}
+                        >
+                          create Account
+                        </button>
+                      </Form>
+                    )}
+                  </Formik>
+                </div>
+              </div>
             </div>
-        )
-    }
-}
-
-export default Register
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+};
